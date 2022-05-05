@@ -6,7 +6,7 @@
 
 Используется база данных firebase
 
-<img src="https://user-images.githubusercontent.com/90133237/166906755-8adb6106-5bb7-4408-93cd-8db9637113dc.jpg" width="500" />
+<img src="https://user-images.githubusercontent.com/90133237/166906755-8adb6106-5bb7-4408-93cd-8db9637113dc.jpg" width="700" />
 
 ***Демонстрация работы***
 
