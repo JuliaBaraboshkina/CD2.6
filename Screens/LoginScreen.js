@@ -25,7 +25,7 @@ const LoginScreen = () => {
       .then(userCredentials => {
         const user = userCredentials.user;
       })
-      .catch(error => aAlert.alert("Внимание!","Ошибка ввода данных"))
+      .catch(error => Alert.alert("Внимание!","Ошибка ввода данных"))
   }
 
   const handleLogin = () => {
